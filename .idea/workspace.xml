@@ -5,9 +5,14 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="8e3309be-2d38-42b2-8183-0e506f2cca42" name="Changes" comment="day 5 complete">
-      <change afterPath="$PROJECT_DIR$/src/day5/Task1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/day5/Task2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/day5/День 5.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/day6/Airplane.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/day6/Car.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/day6/Motorbike.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/day6/Student.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/day6/Task1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/day6/Task2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/day6/Task3.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/day6/Teacher.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -55,7 +60,7 @@
       <recent name="D:\Projects\javalearn\src\day1" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.day5.Task2">
+  <component name="RunManager" selected="Application.Task3">
     <configuration name="Task1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="day5.Task1" />
       <module name="javalearn" />
@@ -70,11 +75,11 @@
       </method>
     </configuration>
     <configuration name="Task2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="day4.Task2" />
+      <option name="MAIN_CLASS_NAME" value="day6.Task2" />
       <module name="javalearn" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="day4.*" />
+          <option name="PATTERN" value="day6.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -83,24 +88,11 @@
       </method>
     </configuration>
     <configuration name="Task3" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="day4.Task3" />
+      <option name="MAIN_CLASS_NAME" value="day6.Task3" />
       <module name="javalearn" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="day4.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="Task4" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="day4.Task4" />
-      <module name="javalearn" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="day4.*" />
+          <option name="PATTERN" value="day6.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -121,13 +113,26 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="day6.Task1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="day6.Task1" />
+      <module name="javalearn" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="day6.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.day5.Task2" />
-        <item itemvalue="Application.Task1" />
-        <item itemvalue="Application.Task4" />
         <item itemvalue="Application.Task3" />
         <item itemvalue="Application.Task2" />
+        <item itemvalue="Application.day6.Task1" />
+        <item itemvalue="Application.day5.Task2" />
+        <item itemvalue="Application.Task1" />
       </list>
     </recent_temporary>
   </component>
@@ -149,7 +154,7 @@
       <workItem from="1663022536597" duration="1461000" />
       <workItem from="1663090390466" duration="3772000" />
       <workItem from="1663100374762" duration="2083000" />
-      <workItem from="1663165122157" duration="6346000" />
+      <workItem from="1663165122157" duration="9557000" />
     </task>
     <task id="LOCAL-00001" summary="2 days complete">
       <created>1663101655351</created>
@@ -165,7 +170,14 @@
       <option name="project" value="LOCAL" />
       <updated>1663170537749</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="day 5 complete">
+      <created>1663171501493</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1663171501493</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
